@@ -156,11 +156,3 @@ Contributions are welcome! Follow these steps to contribute:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-## 📧 Contact
-
-Have questions or feedback? Feel free to reach out:
-
-- **GitHub**: [kneeraazon404](https://github.com/kneeraazon404)
-- **Email**: [your-email@example.com] (Replace with your actual email, if desired)
